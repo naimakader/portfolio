@@ -68,7 +68,7 @@ export const projects: Project[] = [
       "PostgreSQL",
     ],
     github: "https://github.com/naimakader/Lexai",
-    live: "https://lexai.vercel.app",
+    live: "https://lexai-fd92.vercel.app",
     featured: true,
     color: "#03030A",
     accentColor: "#6366F1",
