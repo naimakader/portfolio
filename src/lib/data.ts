@@ -10,7 +10,7 @@ export const siteConfig = {
   email: "naimakader976@gmail.com",
   github: "https://github.com/naimakader",
   linkedin: "https://www.linkedin.com/in/naima-kader-9971b3301",
-  resumeUrl: "/naima-kader-resume.pdf", // add your PDF to /public
+  resumeUrl: "/Naima_Kader_Resume.pdf", // add your PDF to /public
   domain: "naimakader.dev",
 };
 

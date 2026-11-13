@@ -84,7 +84,7 @@ src/
 public/
 ├── favicon.svg                     # nk monogram, dark bg, purple text
 ├── phantom-demo.gif                # Phantom extension demo
-└── naima-kader-resume.pdf          # Resume — linked from contact section
+└── Naima_Kader_Resume.pdf         # Resume — linked from contact section
 ```
 
 ---
